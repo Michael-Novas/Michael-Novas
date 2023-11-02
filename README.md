@@ -1,15 +1,15 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Michael Novas</h1>
-<h3 align="center">A passionate developer in North Carolina</h3>
+<h3 align="center">A Passionate Developer in North Carolina</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-novas&label=Profile%20views&color=0e75b6&style=flat" alt="michael-novas" /> </p>
 
-- 🔭 I’m currently working on **a Ticketing App Using Next.js, Tailwind CSS, and MongoDB**
+- 🔭 I’m currently working on **a Android Quiz Application using Kotlin**
 
-- 🌱 I’m currently learning **Next.js, REACT, Tailwind CSS, MongoDB**
+- 🌱 I’m currently learning **Android Development and Kotlin**
 
-- 📫 How to reach me **michael.novas@yahoo.com**
+- 📫 How to reach me **michael.novas@yahoo.com and 8136038920**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
