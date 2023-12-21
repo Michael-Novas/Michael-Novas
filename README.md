@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Development and Kotlin**
 
-- 📫 How to reach me **michael.novas@yahoo.com and 8136038920**
+- 📫 How to reach me **michael.novas@yahoo.com and 7043236986**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
