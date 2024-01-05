@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-novas&label=Profile%20views&color=0e75b6&style=flat" alt="michael-novas" /> </p>
 
-- 🔭 I’m currently working on **a Android Quiz Application using Kotlin**
+- 🔭 I’m currently working on **a Android Quiz Application using Kotlin and Android Studio IDE**
 
 - 🌱 I’m currently learning **Android Development and Kotlin**
 
