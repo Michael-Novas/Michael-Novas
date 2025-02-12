@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-novas&label=Profile%20views&color=0e75b6&style=flat" alt="michael-novas" /> </p>
 
-- 🔭 I’m currently working on **a Android Quiz Application using Kotlin and Android Studio IDE**
+- 🔭 I’m currently working on **an album produced entirely by me**
 
-- 🌱 I’m currently learning **Android Development and Kotlin**
+- 🌱 I’m currently learning **Ableton Production**
 
 - 📫 How to reach me **michael.novas@yahoo.com and 7043236986**
 
